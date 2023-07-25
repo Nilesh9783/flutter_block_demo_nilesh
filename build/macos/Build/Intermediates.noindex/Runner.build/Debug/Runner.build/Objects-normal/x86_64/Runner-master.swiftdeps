@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "61e78c27bd6431099fda5487093fa7516be149be0c99da71c43f574115d0fddf"
+build_start_time: [1689921833, 687458992]
+build_end_time: [1689921844, 88976860]
+inputs:
+  "/Users/indianic/Desktop/Traning 2023/Git/flutter_block_demo_nilesh/macos/Flutter/GeneratedPluginRegistrant.swift": [1689921816, 12063741]
+  "/Users/indianic/Desktop/Traning 2023/Git/flutter_block_demo_nilesh/macos/Runner/AppDelegate.swift": [1680363199, 0]
+  "/Users/indianic/Desktop/Traning 2023/Git/flutter_block_demo_nilesh/macos/Runner/MainFlutterWindow.swift": [1680363199, 0]

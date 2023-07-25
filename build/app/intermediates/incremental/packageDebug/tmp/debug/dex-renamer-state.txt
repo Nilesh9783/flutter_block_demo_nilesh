@@ -1,0 +1,4 @@
+#Mon Jul 24 11:59:52 IST 2023
+base.0=/Users/indianic/Desktop/Traning 2023/Git/flutter_block_demo_nilesh/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
